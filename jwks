@@ -1,8 +1,8 @@
 {
   "kty": "RSA",
-  "x5t#S256": "uicEdn6tCBcM05DPYRo5UT75aakQokHKtQcO4rrKF8U",
+  "x5t#S256": "TS6DnrRInQot8zhOTQ33RYiYowkuE5ZMRbV5aJ2_UEA",
   "e": "AQAB",
   "use": "sig",
   "kid": "michal-sign",
-  "n": "6ydrMGx-34mtCHoWKdEug0rzI89AlvIkyoXMoThfbKUqYWyYJDEDMV2SekeXG11GkFyF_Q1x-rZA7RRA8yl5-S12KeNlSBj0Hoi5gNVSU67ai4MC3YCsfE12BN2C7Z-vnkH3BB1Jif7WaQlknUK__OzpIrKvqyaw0Z6t2c69FFE"
+  "n": "7mNz_usHIPWpBBDGAYMuIt4p4Jh7CCpu2LEmCRGY7PNOI9QYI5VI3HeGFJA9wXC0w8mnRbq8AYc8pWIY3t5_eb13IiFAJDsdGT63JJeerGFC_bF8tWY1fekneV1X3cVNxmifSftMTOW2zoaY6oN3gve90l7HZP3Rw1mEwebewJU"
 }
